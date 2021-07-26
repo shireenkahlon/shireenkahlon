@@ -35,6 +35,8 @@ Technologies:
 
 
 [![Shireen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shireenkahlon)](https://github.com/anuraghazra/github-readme-stats)
+![Shireen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shireenkahlon&show_icons=true)
+
 
 
 
