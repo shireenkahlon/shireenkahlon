@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi! My name is Shireen! I'm a recent graduate from the University of Texas at Austin's data analytics bootcamp! Below is some info on me! Hope you enjoy!
+My name is Shireen! I'm a recent graduate from the University of Texas at Austin's data analytics bootcamp! Below is some info on me! Hope you enjoy!
 
 - 🔭 I’m currently working on multiple projects including a collaborative project that will scrape data off Spotify, another collaborative project that will analyze data on serial killers, a solo project analyzing Taylor Swift's songs, and one other solo project analyzing and visualizing data on different wines!
 - 🌱 I’m currently learning iOS app development and PowerBI! In addition, I am expanding my skillset on Python (and Python libraries), PostGreSQL, Tableau, and web APIs. 
