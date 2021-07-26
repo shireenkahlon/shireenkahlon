@@ -35,7 +35,7 @@ Technologies:
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-[![Shireen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shireenkahlon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Shireen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shireenkahlon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra)
 
 
 
