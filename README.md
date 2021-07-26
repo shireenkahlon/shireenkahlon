@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shireenkahlon/shireenkahlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi! My name is Shireen! I'm a recent graduate from the University of Texas at Austin's data analytics bootcamp! Below is some info on me! Hope you enjoy!
 
@@ -13,5 +11,4 @@ Hi! My name is Shireen! I'm a recent graduate from the University of Texas at Au
 - ⚡ Fun fact: I spent my 26th birthday on top of the Eiffel Tower!!!! I enjoy traveling and have been to many countries in Asia and Europe, as well as roadtripped across many states in the USA! 
 - Feel free to contact me at skahlon.tx@gmail.com or (512) 351-6454 or connect with me:
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shireenkahlon/)
-[![Twitter]
--->
+
